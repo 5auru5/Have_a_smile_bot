@@ -4,7 +4,7 @@ import time
 ##### Login Credentials Here #####
 
 user_login = 'Have_a_smile_bot'
-pass_login = '(sorry not telling mah password)’
+pass_login = '()’
 
 ##### ##################### #####
 
